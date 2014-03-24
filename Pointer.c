@@ -4,7 +4,7 @@
  *  Created on: 22 Mar 2014
  *      Author: ali
  */
-
+// Pointer concepts
 int main(){
 	int x;
 	x = 10; printf("intiger x hold value %d\n", x);
