@@ -7,7 +7,7 @@
 /*This example showing multiple pointers,
 pointing towords x varibale value. x variable
 hold value but pointer hold address of
-of variable inside memory..*/
+of variable inside memory.*/
 int main(){
 	int x, *p, **pp, ***ppp, ****pppp;
 	x = 10;
