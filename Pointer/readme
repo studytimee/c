@@ -1,0 +1,8 @@
+
+What are Pointers?
+
+Different from other normal variables which can store values, pointers are special variables that can hold the address of a variable. Since they store memory address of a variable, the pointers are very commonly said to “point to variables”. Lets try to understand the concept.
+
+Suppose: 
+A normal variable ‘var’ has a memory address of 1001 and holds a value 50.
+A pointer variable has its own address 2047 but stores 1001, which is the address of the variable ‘var’
